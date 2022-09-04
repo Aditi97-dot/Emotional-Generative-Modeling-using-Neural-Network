@@ -1,1 +1,1 @@
-# Emotional-Generative-Modeling-using-Neural-Network
+# Emoji-Generative-Modeilling-using-DAN
